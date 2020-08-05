@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/harshini05062000/Mobiles/static/css/main.edd7507f.chunk.css",
+    "main.js": "/harshini05062000/Mobiles/static/js/main.eb0fafc7.chunk.js",
+    "main.js.map": "/harshini05062000/Mobiles/static/js/main.eb0fafc7.chunk.js.map",
+    "runtime-main.js": "/harshini05062000/Mobiles/static/js/runtime-main.a864fa96.js",
+    "runtime-main.js.map": "/harshini05062000/Mobiles/static/js/runtime-main.a864fa96.js.map",
+    "static/js/2.27c91966.chunk.js": "/harshini05062000/Mobiles/static/js/2.27c91966.chunk.js",
+    "static/js/2.27c91966.chunk.js.map": "/harshini05062000/Mobiles/static/js/2.27c91966.chunk.js.map",
+    "index.html": "/harshini05062000/Mobiles/index.html",
+    "precache-manifest.a128ba01b8aa8bd32656b01ced6a6fe8.js": "/harshini05062000/Mobiles/precache-manifest.a128ba01b8aa8bd32656b01ced6a6fe8.js",
+    "service-worker.js": "/harshini05062000/Mobiles/service-worker.js",
+    "static/css/main.edd7507f.chunk.css.map": "/harshini05062000/Mobiles/static/css/main.edd7507f.chunk.css.map",
+    "static/js/2.27c91966.chunk.js.LICENSE.txt": "/harshini05062000/Mobiles/static/js/2.27c91966.chunk.js.LICENSE.txt",
+    "static/media/i2.jpg": "/harshini05062000/Mobiles/static/media/i2.d8a1eb04.jpg",
+    "static/media/img1.jpg": "/harshini05062000/Mobiles/static/media/img1.77a7bee6.jpg",
+    "static/media/img2.jpg": "/harshini05062000/Mobiles/static/media/img2.e4facde7.jpg",
+    "static/media/samsung1.jpg": "/harshini05062000/Mobiles/static/media/samsung1.b019696a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a864fa96.js",
+    "static/js/2.27c91966.chunk.js",
+    "static/css/main.edd7507f.chunk.css",
+    "static/js/main.eb0fafc7.chunk.js"
+  ]
+}
